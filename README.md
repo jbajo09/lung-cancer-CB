@@ -3,6 +3,7 @@ In this repository the necessary code and data to carried out the experiments pr
 Using Machine Learning Techniques Applied to Lung Cancer are available. Next a description of available files is presented.
 
 LUAD_pacientes.csv:file to load counts files to R. TCGA-LUAD.
+
 LUSC_files.csv:file to load counts files to R. TCGA-LUSC.
 counts: Counts files.
 LUAD.cvs: preprocessed RNA-Seq expression matrix (without batch effect treat) for ACC and control samples from TCGA-LUAD project
