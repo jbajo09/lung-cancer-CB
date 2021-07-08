@@ -14,7 +14,7 @@ LUSC.csv: preprocessed RNA-Seq expression matrix (without batch effect treat) fo
 
 tri.csv: preprocessed RNA-Seq expression matrix (without batch effect treat) for SCC and control samples from TCGA-LUAD and TCG-LUAD project
 
-mic_exp.csv: preprocessed microarray expression matrix (All series integrated)
+mic_exp1.csv: preprocessed microarray expression matrix (All series integrated)
 
 mic_samples.csv: labels for mic_exp samples.
 
