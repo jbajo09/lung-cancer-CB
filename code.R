@@ -7,7 +7,6 @@ library(R.utils)
 require(ROCR)
 require(annotate)
 
-set.seed(30)
 
 # DATA READ AND PREPARATION
 
