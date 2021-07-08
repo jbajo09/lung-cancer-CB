@@ -24,3 +24,8 @@ def.RData: Workspace with the results obtained.
 
 Data files can be found in drive repository https://drive.google.com/drive/folders/1bJ98M8QWRb1AZpJWMBo9cplxESYkf0ES?usp=sharing because of their size.
 
+
+#SHINY CODE#
+app.R: code to contruct your local intuitive interface to carry out the experiments.
+Data example files for shiny aplication can be found at: https://drive.google.com/drive/folders/1hH-V2F99mkic5BIKV1Plh6kDMcTyRBiF?usp=sharing
+
