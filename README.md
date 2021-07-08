@@ -27,7 +27,7 @@ Data files can be found in drive repository https://drive.google.com/drive/folde
 
 # SHINY CODE #
 
-app.R: code to contruct your local intuitive interface to carry out the experiments.
+app.R: code to contruct your local intuitive interface to carry out the experiments. You only need to run this code in your R local machine environment and the interface will open.
 
 Data example files for shiny aplication can be found at: https://drive.google.com/drive/folders/1hH-V2F99mkic5BIKV1Plh6kDMcTyRBiF?usp=sharing
 
