@@ -27,7 +27,6 @@ Data files can be found in drive repository https://drive.google.com/drive/folde
 
 # SHINY CODE #
 
-app.R: code to contruct your local intuitive interface to carry out the experiments. You only need to run this code in your R local machine environment and the interface will open. Expression matrix should be processed (batch effect treatment include, to carry out batch effect treatment -> code.R)
+app.R: code to contruct your local intuitive interface to carry out the experiments. To run the application download data.RData, www folder and app.R from https://drive.google.com/drive/folders/1mmOIbRgZWTgdHOywniGx8MDwuY-_CID1?usp=sharing  and run it on R. (All files should be in the same folder)
 
-Data example files for shiny aplication can be found at: https://drive.google.com/drive/folders/1hH-V2F99mkic5BIKV1Plh6kDMcTyRBiF?usp=sharing
 
